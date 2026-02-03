@@ -14,6 +14,8 @@ Cada vez que se realiza un push a la rama main, GitHub Actions:
 2. Ejecuta el workflow configurado
 3. Envía una notificación a ntfy.sh/devops-itla con información del push
 
+![Logo del proyecto](img/Prueba.png)
+
 ## Tecnologías Utilizadas
 
 - JavaScript
